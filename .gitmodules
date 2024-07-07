@@ -1,0 +1,4 @@
+[submodule "go-fintrack"]
+	path = go-fintrack
+	url = https://github.com/irbbook/go-fintrack.git
+	branch = develop
